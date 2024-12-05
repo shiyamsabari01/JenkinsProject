@@ -7,6 +7,6 @@ public class JenkinsProject1 {
 System.out.println("Leo");
 System.out.println("GOAT");
 System.out.println("Beast");
-        
+        System.out.println("Vikram");
     }
 }

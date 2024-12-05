@@ -4,5 +4,9 @@ public class JenkinsProject1 {
         System.out.println("Where is Party Pushpa");
         System.out.println("Puspa means not a flower it's a FIRE");
         System.out.println("Soon You'll get JOB");
+System.out.println("Leo");
+System.out.println("GOAT");
+System.out.println("Beast");
+        
     }
 }

@@ -1,0 +1,8 @@
+public class JenkinsProject1 {
+    public static void main(String[] args) {
+        System.out.println("Hello Pushpa");
+        System.out.println("Where is Party Pushpa");
+        System.out.println("Puspa means not a flower it's a FIRE");
+        System.out.println("Soon You'll get JOB");
+    }
+}
